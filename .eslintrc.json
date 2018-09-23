@@ -5,10 +5,7 @@
     },
     "extends": "airbnb-base",
     "parserOptions": {
-        "sourceType": "module",
-        "ecmaFeatures": {
-            "jsx": true
-        }
+        "sourceType": "module"
     },
     "rules": {
         "indent": [
